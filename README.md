@@ -8,7 +8,7 @@
   <div class="header-info">
     <h1>Olá! 👋 Eu sou o Filipe Barbosa</h1>
     <p class="subtitulo">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=485&lines=Desenvolvedor+Fullstack;Explorando+HTML%2C+CSS%2C+JavaScript+e+Python;C%C3%B3digo+limpo%2C+mente+criativa" alt="Typing SVG"" alt="Descrição animada">
+       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=490&lines=Desenvolvedor+Front-End;Explorando+HTML%2C+CSS%2C+JavaScript+e+Python;C%C3%B3digo+limpo%2C+mente+criativa" alt="Typing SVG" /></a>
     </p>
     <div class="social-icons">
       <a href="https://github.com/FilipeBcode" target="_blank">GitHub</a>
